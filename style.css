@@ -1,0 +1,43 @@
+html{
+    background: url(images/mario-kart-wii-hd-wallpapers.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+body{
+    text-align: center;
+    padding: 10px 20px;
+    margin: 10px 200px;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 25px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+p.item{
+    text-align: left;
+    font-weight: bold;
+}
+
+#results img{
+width: 80px;
+padding: 5px;
+}
+
+button{
+    background-color: red;
+    font-weight: bold;
+    font-size: 20px;
+    border: 4px solid white;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+#input{
+    border-radius: 10px;
+    padding: 5px;
+}
